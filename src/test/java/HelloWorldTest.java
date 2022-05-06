@@ -1,12 +1,9 @@
-import org.junit.jupiter.api.Test;
+public class HelloWorldTest {
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class HelloWorldTest {
-
-    @Test
-    void testHelloWorld() {
+    @org.junit.Test
+    public void testHelloWorld() {
         HelloWorld helloWorld = new HelloWorld();
-        assertEquals("Hello World", helloWorld.helloWorld());
+        System.out.println("Running junit5");
+        assert("Hello World".equals(helloWorld.helloWorld()));
     }
 }
