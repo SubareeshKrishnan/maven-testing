@@ -1,12 +1,10 @@
+import org.testng.annotations.Test;
 
+import static org.testng.Assert.*;
 
 public class HelloWorldJavaTest {
 
-//  Using SureFire - Default
+    @Test
     public void testHelloWorld() {
-
-        HelloWorldJava helloWorldJava = new HelloWorldJava();
-        assert("Hello World".equals(helloWorldJava.helloWorld()));
-
     }
 }
