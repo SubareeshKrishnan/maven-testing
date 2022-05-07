@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06304863-0215-4e0e-b38c-703b6a4e9386" name="Changes" comment="jacoco-report-maven - first commit">
+    <list default="true" id="06304863-0215-4e0e-b38c-703b6a4e9386" name="Changes" comment="jacoco-report-maven - added README.md file.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HelloWorldJavaIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HelloWorldJavaIT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HelloWorldTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="maven-failsafe" />
+        <entry key="$PROJECT_DIR$" value="jacoco-report-maven" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,6 +66,7 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "rearrange.code.on.save": "true",
     "settings.editor.selected.configurable": "actions.on.save"
   }
@@ -91,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651826161778</updated>
-      <workItem from="1651904838610" duration="1488000" />
+      <workItem from="1651904838610" duration="5651000" />
     </task>
     <task id="LOCAL-00001" summary="test-report-junit5-maven">
       <created>1651858546352</created>
@@ -107,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651905009697</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jacoco-report-maven - first commit">
+      <created>1651906370774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651906370774</updated>
+    </task>
+    <task id="LOCAL-00004" summary="jacoco-report-maven - added README.md file.">
+      <created>1651906497573</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651906497573</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +153,8 @@
     <MESSAGE value="test-report-junit5-maven" />
     <MESSAGE value="failsafe-junit5-maven - first commit" />
     <MESSAGE value="jacoco-report-maven - first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="jacoco-report-maven - first commit" />
+    <MESSAGE value="jacoco-report-maven - added README.md file." />
+    <option name="LAST_COMMIT_MESSAGE" value="jacoco-report-maven - added README.md file." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
